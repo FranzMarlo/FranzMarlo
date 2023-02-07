@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franzmarlo" alt="franzmarlo" /></a> </p>
 
-- 🔭 I’m currently studying **BSIT in Batangas State University Alangilan Campus.**
+- 🔭 I’m currently taking **BSIT in Batangas State University Alangilan Campus.**
 
 - 🌱 I’m currently learning **Javascript and Mysql.**
 
