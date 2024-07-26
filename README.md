@@ -1,5 +1,7 @@
-<h1>👋 Hi, I'm Franz!</h1><br><br>💻 Aspiring to be a Data Analyst</br><br>🏬 Currently taking BS [Information Technology](https://youtu.be/XZrckLYqdys?si=lSWPwNm2Lg7ctMIo) at Batangas State University - TNEU, Philippines</br><br>📚 Currently learning about [Data Analytics](https://youtu.be/yZvFH7B6gKI?si=SzSjhlMLt7hbKc9x) and [Information Security](https://youtu.be/WrsPDjyV5xQ?si=M4KV35rcMDdQS3W6)</br>
-
+<h1>👋 Hi, I'm Franz!</h1>
+💻 Aspiring to be a Data Analyst</br>
+🏬 Currently taking BS [![Information Technology](https://youtu.be/XZrckLYqdys?si=N6fmIfA13jzuT0sp)] at Batangas State University - TNEU, Philippines</br>
+📚 Currently learning about [Data Analytics](https://youtu.be/yZvFH7B6gKI?si=SzSjhlMLt7hbKc9x) and [Information Security](https://youtu.be/WrsPDjyV5xQ?si=M4KV35rcMDdQS3W6)</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zoal_andal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FranzMarloAndal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Zoal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zoal_zzz) 
