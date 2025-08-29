@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Franz!</br>
 💻 Aspiring to be a Web Developer</br>
-🏬 Currently taking BS [Information Technology](https://youtu.be/XZrckLYqdys?si=N6fmIfA13jzuT0sp) at Batangas State University - TNEU, Philippines</br>
+🏬 Graduated BS [Information Technology](https://youtu.be/XZrckLYqdys?si=N6fmIfA13jzuT0sp) Major In Business Analytics at Batangas State University - TNEU, Philippines</br>
 📚 Currently learning about [Data Analytics](https://youtu.be/yZvFH7B6gKI?si=SzSjhlMLt7hbKc9x) and [Information Security](https://youtu.be/WrsPDjyV5xQ?si=M4KV35rcMDdQS3W6)</br>
 
 # 💻 Tech Stack:
